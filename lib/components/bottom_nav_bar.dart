@@ -22,14 +22,14 @@ class MyBottomNavBar extends StatelessWidget {
             icon: Icons.home,
             text: "Shop",
             gap: 8,
-            padding: EdgeInsets.all(15),
+            padding: EdgeInsets.all(20),
           ),
 
           GButton(
             icon: Icons.shopping_bag_rounded,
             text: "Cart",
             gap: 8,
-            padding: EdgeInsets.all(15),
+            padding: EdgeInsets.all(20),
           ),
         ],
       ),
